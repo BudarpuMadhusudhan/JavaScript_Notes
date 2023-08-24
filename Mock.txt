@@ -1,0 +1,20 @@
+except()
+to()
+be()
+equals()
+NotEquals()
+contains()
+
+
+except("Excepetd condition").to.be.equals("actual Condition")
+
+
+browser.acceptAlert
+
+browser.selectByVisibleText("text")
+browser.selectByIndex(num)
+browser.selectByValue("value")
+
+
+browser.$().waitToDisplay({timeouts:2000})
+waitToClilble
