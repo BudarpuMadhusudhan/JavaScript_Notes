@@ -1,5 +1,5 @@
 let a =10
-console.log(a);//SCOPE WILL B LOCAL
+console.log(a);//SCOPE WILL BE LOCAL
 
 let b=10
 console.log(b);// we can reintilize but we cannot declare
