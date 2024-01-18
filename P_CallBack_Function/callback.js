@@ -9,7 +9,7 @@ function Madhu(place1,place2) {
 }
 
 function Radha(place1,place2) {
-    console.log("I am Deeksha alias Radha");
+    console.log("I am sai pallavi alias Radha");
     console.log("i am from "+place2);
 }
 
